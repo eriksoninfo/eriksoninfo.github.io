@@ -1,4 +1,6 @@
 ## Oceanum
+### Chapter 1
+
 "You think they accept middle school keychains as a valid photo ID?"
 
 Theo looked up with a smile on his face, only to see that Felix' expression was stone cold. The smile vanished as Theo suddenly remembered who he was talking to. "I'm sorry, but you dragged us all the way here and couldn't be bothered to prepare at least a little?"
@@ -25,7 +27,7 @@ Theo groaned, "Of course." He stood from his chair, grabbing his jacket on the w
 
 "Once we get to our testing room, you'll be asked a few questions. Just so you know in advance, we'll be separated by a glass screen," she said, her face suddenly growing dour, "It's safety protocol." Within a moment she had perked right back up again.
 
-"Would you mind if we started that question process now?"\
+"Would you mind if we started that question process now?"
 "Are you in a hurry? We only accept people that are truly dedicated to helping and supporting the Reliquary."
 
 Theo chose to ignore this. One more hallway and two flights of stairs led them to the designated testing room. Opening the door revealed two paths that they could take, one with stairs leading to an upper level. The woman directed Theo to go to the left, where she would instead advance up the steps to the right. The room he entered was white, with a metal chair screwed to the ground in the center. Of course it was. At the top of the wall the chair faced was an observatory space with a large clear screen taking up nearly half the wall. Behind it stood the woman who walked him to the room, pacing back and forth. Towards the bottom of the wall was a small opening that looked similar to a mail slot.
@@ -40,8 +42,8 @@ The woman's voice sounded over an intercom, "Alright, let's start off with the q
 
 "Address?"
 
-"773 Pearbush Avenue."\
-She paused for a moment, perhaps to think. "And what district would that be in?"\
+"773 Pearbush Avenue." 
+She paused for a moment, perhaps to think. "And what district would that be in?" 
 The district where you lived mattered more in Erikson than it probably should have, but the variety of districts lead to easy stereotypes. Theo's district was generally considered to be in the upper end of class, having a history of breeding educated, well read, people. If they weren't educated or well read, they were rich, which was a fine enough substitution. Just southwest of there was Pariah territory. He had heard it described as being like the Wild West, so there wasn't exactly much conversation between them and other districts. The Reliquary prided itself on being the one thing standing between the Pariah and complete domination of Erikson. They did prevent chaos, but Theo was skeptical whether domination was really in their purview. Theo smirked. "The northern end of City Government Territory, directly south of here." 
 
 "Good, good. Always nice to see a face from the CGT." She took a few seconds to scribble something down on a pad of paper. "Moving on to the more interesting questions! Why did you apply here?"
@@ -86,7 +88,7 @@ Felix grabbed his belongings and jogged to catch up to Theo, who was already hur
 
 Theo kept walking. It was even more aggravating that Felix could seemingly use the Relic they gave him when Theo didn't even get a working one. On top of that, he was turned down where Felix wasn't.
 
-"Oh man, those Relics. You have to tell me what yours did. Theo?"\
+"Oh man, those Relics. You have to tell me what yours did. Theo?" 
 He just had to rub it in. Theo scowled. "Can we just wait a bit until we talk about this?"
 
 Felix nodded. Walking outside, Theo was eternally grateful to be back out in the open air again. The sights, sounds, and smells of the Reliquary district stood in stark contrast with each other. Where everything looked clean, as if the roads and walls were power washed daily, the district smelled of smoke and sounded of commotion. At least some other areas were more honest than others with how they looked. Looking south towards Pariah territory, he turned over the die in his pocket.
