@@ -1,5 +1,3 @@
-## Oceanum
-
 ### Chapter 1
 
 "You think they accept middle school keychains as a valid photo ID?"
