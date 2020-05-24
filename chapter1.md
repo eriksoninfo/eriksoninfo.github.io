@@ -92,8 +92,6 @@ He just had to rub it in. Theo scowled. "Can we just wait a bit until we talk ab
 
 Felix nodded. Walking outside, Theo was eternally grateful to be back out in the open air again. The sights, sounds, and smells of the Reliquary district stood in stark contrast with each other. Where everything looked clean, as if the roads and walls were power washed daily, the district smelled of smoke and sounded of commotion. At least some other areas were more honest than others with how they looked. Looking south towards Pariah territory, he turned over the die in his pocket.
 
-​																											[Next Chapter ->](chapter2.html)
-
-
 
 #### [Table of Contents](index.md)
+​[Next Chapter ->](chapter2.md)
