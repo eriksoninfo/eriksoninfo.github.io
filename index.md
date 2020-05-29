@@ -6,4 +6,4 @@ Oceanum is a (hopefully)long-term project written by Nathan Haas. Oceanum is a m
 
 [Chapter 1](chapter1.md)
 
-Chapter 2
+[Chapter 2](chapter2.md)
