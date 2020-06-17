@@ -39,5 +39,7 @@ Theo didn't know much about Pariah territory, but it didn't take a genius to kno
 *They might appreciate me leaving a note behind to tell them I'm leaving,* he thought, his hand already on the doorknob. He chuckled to himself before opening the door and taking his first steps outside. There was payoff in waiting to say anything. In just a few days, he could surprise Joel with the news as his coworker at the Reliquary instead of just his son.
 
 #### [Table of Contents](index.md)
+
 [<- Previous Chapter](chapter1.md)	
+
 [Next Chapter ->](chapter3.md)
