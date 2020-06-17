@@ -40,3 +40,4 @@ Theo didn't know much about Pariah territory, but it didn't take a genius to kno
 
 #### [Table of Contents](index.md)
 [<- Previous Chapter](chapter1.md)	
+[Next Chapter ->](chapter3.md)
