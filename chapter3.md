@@ -92,3 +92,5 @@ He was only steps out the door before he heard the crunch of metal against his r
 
 #### [Table of Contents](index.md)
 [<- Previous Chapter](chapter2.md)
+
+[-> Next Chapter](chapter4.md)
